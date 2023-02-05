@@ -6,7 +6,7 @@ Hello World in Eiffel/S
 ## 日本語で多少詳しく
 Eiffel/S[^eiffels]で"Hello World!"と表示するプログラムです。
 
-が、そもそもEiffel/Sが今はもうない[^pkgsearch]（はずな）ので、このプログラムに意味があったとしても、歴史的価値くらいでしょう。
+が、そもそもEiffel/Sが今はもうない[^pkgsearch]（はずな）ので、このプログラムに意味があったとしても、歴史的価値くらいでしょう。自分のウェブページではこのプログラムに対して以下のような説明を付けていました。
 > "Hello World!" と表示する Eiffel のソースです。 FreeBSD に Eiffel のパッケージ (eiffel-13a) を入れた方は、 次のように入力して
 > 
 > ecc -O hello
